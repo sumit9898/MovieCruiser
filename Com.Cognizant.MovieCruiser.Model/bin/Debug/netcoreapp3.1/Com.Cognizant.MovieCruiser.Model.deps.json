@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Com.Cognizant.MovieCruiser.Model/1.0.0": {
+        "runtime": {
+          "Com.Cognizant.MovieCruiser.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Com.Cognizant.MovieCruiser.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

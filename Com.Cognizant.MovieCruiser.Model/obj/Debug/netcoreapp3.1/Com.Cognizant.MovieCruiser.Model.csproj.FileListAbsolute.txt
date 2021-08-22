@@ -1,0 +1,9 @@
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Model\bin\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.deps.json
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Model\bin\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.dll
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Model\bin\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.pdb
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Model\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.AssemblyInfoInputs.cache
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Model\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.AssemblyInfo.cs
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Model\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Model\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.dll
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Model\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.pdb
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Model\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.csprojAssemblyReference.cache

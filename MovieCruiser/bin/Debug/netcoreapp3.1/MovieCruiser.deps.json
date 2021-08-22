@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MovieCruiser/1.0.0": {
+        "dependencies": {
+          "Com.Cognizant.MovieCruiser.Dao": "1.0.0",
+          "Com.Cognizant.MovieCruiser.Model": "1.0.0"
+        },
+        "runtime": {
+          "MovieCruiser.dll": {}
+        }
+      },
+      "Com.Cognizant.MovieCruiser.Dao/1.0.0": {
+        "dependencies": {
+          "Com.Cognizant.MovieCruiser.Model": "1.0.0"
+        },
+        "runtime": {
+          "Com.Cognizant.MovieCruiser.Dao.dll": {}
+        }
+      },
+      "Com.Cognizant.MovieCruiser.Model/1.0.0": {
+        "runtime": {
+          "Com.Cognizant.MovieCruiser.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieCruiser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Com.Cognizant.MovieCruiser.Dao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Com.Cognizant.MovieCruiser.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

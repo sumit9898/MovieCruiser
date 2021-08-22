@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Com.Cognizant.MovieCruiser.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Com.Cognizant.MovieCruiser.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Com.Cognizant.MovieCruiser.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Com.Cognizant.MovieCruiser.Model/1.0.0": {
+      "type": "project",
+      "path": "../Com.Cognizant.MovieCruiser.Model/Com.Cognizant.MovieCruiser.Model.csproj",
+      "msbuildProject": "../Com.Cognizant.MovieCruiser.Model/Com.Cognizant.MovieCruiser.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Com.Cognizant.MovieCruiser.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Sumit\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Sumit\\Desktop\\missssc\\New folder\\MovieCruiser\\Com.Cognizant.MovieCruiser.Dao\\Com.Cognizant.MovieCruiser.Dao.csproj",
+      "projectName": "Com.Cognizant.MovieCruiser.Dao",
+      "projectPath": "C:\\Users\\Sumit\\Desktop\\missssc\\New folder\\MovieCruiser\\Com.Cognizant.MovieCruiser.Dao\\Com.Cognizant.MovieCruiser.Dao.csproj",
+      "packagesPath": "C:\\Users\\Sumit\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sumit\\Desktop\\missssc\\New folder\\MovieCruiser\\Com.Cognizant.MovieCruiser.Dao\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Sumit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Sumit\\Desktop\\missssc\\New folder\\MovieCruiser\\Com.Cognizant.MovieCruiser.Model\\Com.Cognizant.MovieCruiser.Model.csproj": {
+              "projectPath": "C:\\Users\\Sumit\\Desktop\\missssc\\New folder\\MovieCruiser\\Com.Cognizant.MovieCruiser.Model\\Com.Cognizant.MovieCruiser.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

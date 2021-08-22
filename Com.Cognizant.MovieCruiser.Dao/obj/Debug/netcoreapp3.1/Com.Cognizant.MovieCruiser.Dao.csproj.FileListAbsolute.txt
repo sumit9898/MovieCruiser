@@ -1,0 +1,12 @@
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.deps.json
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.dll
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.pdb
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.dll
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\bin\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Model.pdb
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.csprojAssemblyReference.cache
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.AssemblyInfoInputs.cache
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.AssemblyInfo.cs
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.csproj.CoreCompileInputs.cache
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.csproj.CopyComplete
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.dll
+C:\Users\Sumit\Desktop\missssc\New folder\MovieCruiser\Com.Cognizant.MovieCruiser.Dao\obj\Debug\netcoreapp3.1\Com.Cognizant.MovieCruiser.Dao.pdb
